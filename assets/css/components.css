@@ -1,0 +1,22 @@
+.nav-link:hover{
+    border-bottom: 1px solid rgb(116, 32, 185);
+}
+
+.active{
+    border-bottom: 1px solid rgb(116, 32, 185) !important;
+}
+
+.btn-primary{
+    background-color:rgb(116, 32, 185) !important;
+    border: rgb(102, 28, 163) !important;
+}
+
+
+.btn-primary:hover{
+    background-color:rgb(93, 26, 148) !important;
+    border: rgb(81, 23, 129) !important;
+}
+
+.nav-link{
+    border-bottom: 1px solid rgba(255, 255, 255, 0)
+}

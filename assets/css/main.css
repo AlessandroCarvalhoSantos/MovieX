@@ -1,0 +1,11 @@
+@import url('global.css');
+@import url('components.css');
+@import url('custom.css');
+@import url('responsive.css');
+
+
+
+/* .fundo-teste{
+    background: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8)) ,url('../img/fundoteste.jpg');
+    background-size: cover;
+} */
